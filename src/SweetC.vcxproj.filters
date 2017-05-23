@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Header">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="small.ico">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="open_file.ico">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="open_folder.ico">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="export.ico">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="about.ico">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="file_hpp.ico">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="file_c.ico">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="file_cpp.ico">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="file_h.ico">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="file_folder.ico">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="file_htm.ico">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="file_cmd.ico">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="file_inf.ico">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="file_dll.ico">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="file_txt.ico">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="file_exe.ico">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="file_default.ico">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="file_rar.ico">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="file_docx.ico">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="file_xlsx.ico">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="file_folder_open.ico">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="file_folder_closed.ico">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="ani_1.ico">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="ani_2.ico">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="ani_3.ico">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="ani_4.ico">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="ani_5.ico">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="ani_6.ico">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="ani_7.ico">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="ani_8.ico">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="ani_9.ico">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="ani_10.ico">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="ani_11.ico">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="ani_12.ico">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="ani_13.ico">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="ani_14.ico">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="ani_15.ico">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="ani_16.ico">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="option.ico">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="tool_forward.ico">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="tool_back.ico">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="big_open_folder.ico">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="big_about.ico">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="big_open_file.ico">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="tool_open_file.ico">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="tool_open_folder.ico">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="tool_export.ico">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="tool_about.ico">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="list_function.ico">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="list_property.ico">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="list_return.ico">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="list_comment.ico">
+      <Filter>Resource</Filter>
+    </None>
+    <None Include="app.ico">
+      <Filter>Resource</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="sweet_ui_command.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="sweet_ui.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="sweet_c_parser.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="sweet_data_struct.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="sweet_ui.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="sweet_ui_command.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="sweet_c_parser.c">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="sweet_data_struct.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="sweet_ui.rc">
+      <Filter>Resource</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
